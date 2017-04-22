@@ -1,2 +1,2 @@
 # avlTress
-** AVL Trees generic implementation in c++.
+* AVL Trees generic implementation in c++.
